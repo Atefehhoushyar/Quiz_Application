@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اپلیکیشن سوالات</string>
+    <string name="true_txt">درست</string>
+    <string name="false_txt">غلط</string>
+    <string name="get_the_average">میانگین</string>
+    <string name="reset_the_saved_results">پاک کردن نتایج ذخیره شده</string>
+    <string name="select_number_of_questions">"انتخاب تعداد سوالات 5 یا 10   "</string>
+    <string name="save">ذخیره</string>
+    <string name="quantity_hint">تعداد را وارد کنید</string>
+    <string name="select_the_number_of_questions_menu">"تعداد سوالات  را انتخاب کنید "</string>
+    <string name="question_1">" کانادا بزرگ ترین کشور جهان است"</string>
+    <string name="question_2">کانادا با سه اقیانوس مختلف هم مرز است.</string>
+    <string name="question_3">اتاوا پایتخت کشور کانادا است</string>
+    <string name="question_4">مونترال پایتخت کبک است.</string>
+    <string name="question_5">تورنتو پایتخت انتاریو است.</string>
+    <string name="question_6">تورنتو کوچکترین شهر کانادا است.</string>
+    <string name="question_7">پایتخت آلبرتا کلگری است.</string>
+    <string name="question_8">منیتوبا شهری در وینیپگ است.</string>
+    <string name="question_9">جزیره پرنس ادوارد کوچکترین استان کانادا است.</string>
+    <string name="question_10">کانادا کشوری در آمریکای جنوبی است.</string>
+    <string name="answer_1" translatable="false">غلط</string>
+    <string name="answer_2" translatable="false">درست</string>
+    <string name="answer_3" translatable="false">درست</string>
+    <string name="answer_4" translatable="false">درست</string>
+    <string name="answer_5" translatable="false">درست</string>
+    <string name="answer_6" translatable="false">درست</string>
+    <string name="answer_7" translatable="false">غلط</string>
+    <string name="answer_8" translatable="false">غلط</string>
+    <string name="answer_9" translatable="false">درست</string>
+    <string name="answer_10" translatable="false">غلط</string>
+    <string name = "Alert_badQ">تعداد باید بین 1 تا 10 باشد</string>
+    <string name = "quiz_completed">امتحان تکمیل شد!</string>
+    <string name = "correct">درست</string>
+    <string name ="Result">نتیجه</string>
+    <string name ="rp1" >امتیاز شما این است:</string>
+    <string name ="rp2" >از</string>
+    <string name="rp3">مجموع تلاش ها:</string>
+    <string name="progSaved">پیشرفت ذخیره شد!</string>
+    <string name="Ignore">"بی خیال "</string>
+    <string name="avgResult2">پاسخ های صحیح در مجموع</string>
+    <string name="avgResult3">سوالات</string>
+    <string name="ok">باشه</string>
+    <string name="restratQ">آیا می خواهید امتحان خود را بازنشانی کنید؟</string>
+    <string name="Restart">شروع دوباره</string>
+    <string name="cancel">لغو کنید</string>
+    <string name="avgResult1">گرفتی</string>
+</resources>
